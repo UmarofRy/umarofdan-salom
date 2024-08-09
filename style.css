@@ -1,0 +1,22 @@
+.nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+.ona div{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.ona{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
